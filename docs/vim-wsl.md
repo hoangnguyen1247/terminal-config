@@ -1,6 +1,6 @@
 # Vim-wsl
 
-```
+```sh
 syntax on
 set hidden
 set encoding=utf-8
